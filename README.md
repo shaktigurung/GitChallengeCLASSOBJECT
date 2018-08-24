@@ -6,7 +6,7 @@ You will implement a `class` called `Elements` that has a `method` which rounds 
 
 1. Perform a `git clone <url of this repo>` on this repository. Open the folder in VS Code using `code .`.
 2. Open the `periodic_table.rb` and implment the requirements for the periodic table app.
-3. Push your app to your own repository on Github :)
+3. Push your app to your own repository on Github
 4. Take three deep breaths :)
 
 ## Pre-challenge Review
