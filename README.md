@@ -1,6 +1,6 @@
 # Challenge: Classes and Objects - The Periodic Table
 
-This challenge requires you to create a `class` and create instances of an `object`. You will implement a `class` called `Elements` that has a `method` which rounds atomic weight to the nearest whole number and `attributes` that describe the element.
+You will implement a `class` called `Elements` that has a `method` which rounds atomic weight to the nearest whole number, and `attributes` that describe the element.
 
 ## Instructions
 
