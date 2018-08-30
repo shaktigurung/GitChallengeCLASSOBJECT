@@ -28,3 +28,29 @@
 #################################################################### (ノ^_^)ノ┻━┻ ┬─┬ ノ( ^_^ノ)
 
 ### YOUR CODE HERE:
+
+class Element
+    attr_accessor :name, :atomic_weight , :atomic_number
+    # class variable
+    # @@elements = []
+    def initialize name, atomic_weight, atomic_number 
+        @name = name
+        @atomic_weight = atomic_weight
+        @atomic_number = atomic_number
+        # push every object into class variable
+        # @@elements << self  
+        self.class.all << self
+    end
+    @element = []
+    def self.all
+        # @@elements
+        @element
+    end
+    def self.count
+        @element.count
+    end
+    def self.wholenumber
+        @element.atomic_weight.to_i
+    end
+end
+
