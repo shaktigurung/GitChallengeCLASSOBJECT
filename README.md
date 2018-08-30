@@ -13,7 +13,7 @@ You will implement a `class` called `Elements` that has a `method` which rounds 
 
 Check out the Canvas modules on [classes and objects](https://coderacademy.instructure.com/courses/144/modules/items/5097), [methods](https://coderacademy.instructure.com/courses/144/modules/items/5080) and [data types and variables](https://coderacademy.instructure.com/courses/144/pages/unit-data-types-and-variables?module_item_id=5077).
 
-### What is a `instance variable`?
+### What is an `instance variable`?
 
 A variable that belongs to the instance of a class.
 
